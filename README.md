@@ -1,2 +1,4 @@
-# Machine-Learning-Using-Python-Templete
-This repo is created as the templete for the Machine Learning using Python Training program
+# Machine-Learning-Using-Python from 20July to 25July
+
+### Day-1
+1. (Notebook)[]
