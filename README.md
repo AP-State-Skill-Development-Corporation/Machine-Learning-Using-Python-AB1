@@ -9,3 +9,7 @@
 ### Day-2
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB1/blob/master/Day-2/02_Day2.ipynb)
 2. [video expires on sunday](https://transcripts.gotomeeting.com/#/s/06d5c9696b13e550054acb23b4029986b305473baf25710fc076c323afe3b2db)
+
+### Day-3
+1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB1/blob/master/Day-3/22-07-2020.ipynb)<br>
+2. [Record Video](https://transcripts.gotomeeting.com/#/s/51e0e3f261dbf614e691e99d65fd133bc0c9486c39421e60747bb29395fc534f)
